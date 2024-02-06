@@ -1,6 +1,5 @@
 # MailManagement-consoleApplication
-markdown
-Copy code
+
 # Mail Management Application
 
 This Java application is a simple mail management system that allows users to log in, create new accounts, compose and send emails, and manage received and sent messages.
