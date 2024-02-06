@@ -38,20 +38,13 @@ To run this application, follow these steps:
    git clone https://github.com/your-username/mail-management.git
 Navigate to the project directory:
 
-bash
-Copy code
-cd mail-management
 Compile and run the Main class:
 
-bash
-Copy code
 javac com/muthupradeesh/mailmanagement/Main.java
 java com.muthupradeesh.mailmanagement.Main
 Usage
 Upon running the application, you will be presented with a menu:
 
-plaintext
-Copy code
 * Welcome To Mail Application *
 1 > Login
 2 > Create New Account
@@ -69,17 +62,9 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 License
 This project is licensed under the MIT License.
 
-css
-Copy code
 
 Make sure to customize the URLs, usernames, and project-specific details according to your repository and preferences.
-User
-in text format
-ChatGPT
-Certainly! Here's the README.md content in text format:
 
-markdown
-Copy code
 # Mail Management Application
 
 This Java application is a simple mail management system that allows users to log in, create new accounts, compose and send emails, and manage received and sent messages.
@@ -114,24 +99,19 @@ To run this application, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/muthupradeeshs/mailmanagement-consoleApplication.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd mail-management
 Compile and run the Main class:
 
-bash
-Copy code
+
 javac com/muthupradeesh/mailmanagement/Main.java
 java com.muthupradeesh.mailmanagement.Main
 Usage
 Upon running the application, you will be presented with a menu:
 
-plaintext
-Copy code
+
 * Welcome To Mail Application *
 1 > Login
 2 > Create New Account
